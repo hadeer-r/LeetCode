@@ -6,10 +6,10 @@ public:
             if (nums[i] == 0)
                 zeros++;
             else {
-                int x =nums[i];
-                int y=nums[abs(zeros - i)];
-                nums[abs(zeros - i)]=x;
-                nums[i]=y;
+                if(nums[abs(zeros - i)]!=0)
+                        continue;
+                nums[abs(zeros - i)]=nums[i];
+                nums[i]=0;
             }
         }
     }
