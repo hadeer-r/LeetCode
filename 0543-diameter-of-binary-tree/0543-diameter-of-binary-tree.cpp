@@ -27,6 +27,7 @@ public:
     {
         if (!root)
             return 0;
+        
         maxSoFar = max(height(root->right) + height(root->left), maxSoFar);
         int right = diameterOfBinaryTree(root->right, maxSoFar);
         int left = diameterOfBinaryTree(root->left, maxSoFar);
