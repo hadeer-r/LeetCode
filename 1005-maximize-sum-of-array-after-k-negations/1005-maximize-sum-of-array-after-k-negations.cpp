@@ -8,19 +8,22 @@ public:
         return sum;
     }
 
+    static bool cmp_abs(int a,int b) {
+        return abs(a)<abs(b);
+    }
     int largestSumAfterKNegations(vector<int> &nums, int k) {
-        sort(nums.begin(), nums.end());
+        sort(nums.begin(), nums.end(),cmp_abs);
         int sum{}, sz = (int) nums.size();
-        int i = 0;
-        for (; i < sz && i < k; i++) {
-            if (nums[i] >= 0)
-                break;
-            nums[i] *= -1;
+        int i = sz-1,cnt=0;
+        for (; i >=0 && cnt < k; i--) {
+            if(nums[i]<0) {
+                cnt++;
+                nums[i]*=-1;
+            }
         }
-        if (i >= k)
+        if (cnt >= k)
             return sumOfArray(nums);
-        sort(nums.begin(), nums.end());
-        if ((k - i) % 2 != 0)
+        if ((k - cnt) % 2 != 0)
             nums[0] *= -1;
         return sumOfArray(nums);
     }
