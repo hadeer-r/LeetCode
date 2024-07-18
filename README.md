@@ -31,5 +31,14 @@
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/hadeer-r/LeetCode/tree/master/0231-power-of-two) |
 | [0441-arranging-coins](https://github.com/hadeer-r/LeetCode/tree/master/0441-arranging-coins) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/hadeer-r/LeetCode/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/hadeer-r/LeetCode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
