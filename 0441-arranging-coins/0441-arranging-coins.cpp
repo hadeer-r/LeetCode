@@ -7,8 +7,8 @@ public:
         return c;
         return c2;
     }
-    int arrangeCoins(int n) {
-        long long start=1,end=65535;
+    int arrangeCoins(long long n) {
+        long long start=1,end=sqrt(2*n);
         int res{0};
         while(start<=end){
             int middle=start+(end-start)/2;
