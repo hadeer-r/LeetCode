@@ -33,6 +33,7 @@
 | ------- |
 | [0231-power-of-two](https://github.com/hadeer-r/LeetCode/tree/master/0231-power-of-two) |
 | [0441-arranging-coins](https://github.com/hadeer-r/LeetCode/tree/master/0441-arranging-coins) |
+| [2556-convert-the-temperature](https://github.com/hadeer-r/LeetCode/tree/master/2556-convert-the-temperature) |
 ## Bit Manipulation
 |  |
 | ------- |
