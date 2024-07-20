@@ -54,4 +54,8 @@
 |  |
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/hadeer-r/LeetCode/tree/master/2048-build-array-from-permutation) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/hadeer-r/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
