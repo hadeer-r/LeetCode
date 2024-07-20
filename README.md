@@ -11,6 +11,7 @@
 | [0436-find-right-interval](https://github.com/hadeer-r/LeetCode/tree/master/0436-find-right-interval) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/hadeer-r/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/hadeer-r/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [2048-build-array-from-permutation](https://github.com/hadeer-r/LeetCode/tree/master/2048-build-array-from-permutation) |
 ## String
 |  |
 | ------- |
@@ -47,4 +48,8 @@
 |  |
 | ------- |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/hadeer-r/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
+## Simulation
+|  |
+| ------- |
+| [2048-build-array-from-permutation](https://github.com/hadeer-r/LeetCode/tree/master/2048-build-array-from-permutation) |
 <!---LeetCode Topics End-->
