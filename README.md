@@ -12,6 +12,7 @@
 | [1496-lucky-numbers-in-a-matrix](https://github.com/hadeer-r/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/hadeer-r/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2048-build-array-from-permutation](https://github.com/hadeer-r/LeetCode/tree/master/2048-build-array-from-permutation) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/hadeer-r/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## String
 |  |
 | ------- |
@@ -36,6 +37,7 @@
 | [0231-power-of-two](https://github.com/hadeer-r/LeetCode/tree/master/0231-power-of-two) |
 | [0441-arranging-coins](https://github.com/hadeer-r/LeetCode/tree/master/0441-arranging-coins) |
 | [2556-convert-the-temperature](https://github.com/hadeer-r/LeetCode/tree/master/2556-convert-the-temperature) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/hadeer-r/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Bit Manipulation
 |  |
 | ------- |
