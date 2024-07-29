@@ -18,6 +18,7 @@
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/hadeer-r/LeetCode/tree/master/0058-length-of-last-word) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/hadeer-r/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2502-sort-the-people](https://github.com/hadeer-r/LeetCode/tree/master/2502-sort-the-people) |
 ## Binary Search
