@@ -6,6 +6,7 @@
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/hadeer-r/LeetCode/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/hadeer-r/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0136-single-number](https://github.com/hadeer-r/LeetCode/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/hadeer-r/LeetCode/tree/master/0283-move-zeroes) |
@@ -35,6 +36,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/hadeer-r/LeetCode/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/hadeer-r/LeetCode/tree/master/0283-move-zeroes) |
 ## Math
 |  |
