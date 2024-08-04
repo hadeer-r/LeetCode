@@ -13,6 +13,7 @@
 | [0436-find-right-interval](https://github.com/hadeer-r/LeetCode/tree/master/0436-find-right-interval) |
 | [0965-unique-email-addresses](https://github.com/hadeer-r/LeetCode/tree/master/0965-unique-email-addresses) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/hadeer-r/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/hadeer-r/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/hadeer-r/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2048-build-array-from-permutation](https://github.com/hadeer-r/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2502-sort-the-people](https://github.com/hadeer-r/LeetCode/tree/master/2502-sort-the-people) |
@@ -32,16 +33,19 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/hadeer-r/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0436-find-right-interval](https://github.com/hadeer-r/LeetCode/tree/master/0436-find-right-interval) |
 | [0441-arranging-coins](https://github.com/hadeer-r/LeetCode/tree/master/0441-arranging-coins) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/hadeer-r/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Sorting
 |  |
 | ------- |
 | [0436-find-right-interval](https://github.com/hadeer-r/LeetCode/tree/master/0436-find-right-interval) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/hadeer-r/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2502-sort-the-people](https://github.com/hadeer-r/LeetCode/tree/master/2502-sort-the-people) |
 ## Two Pointers
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/hadeer-r/LeetCode/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/hadeer-r/LeetCode/tree/master/0283-move-zeroes) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/hadeer-r/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Math
 |  |
 | ------- |
