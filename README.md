@@ -24,6 +24,7 @@
 | ------- |
 | [0058-length-of-last-word](https://github.com/hadeer-r/LeetCode/tree/master/0058-length-of-last-word) |
 | [0965-unique-email-addresses](https://github.com/hadeer-r/LeetCode/tree/master/0965-unique-email-addresses) |
+| [1274-number-of-days-between-two-dates](https://github.com/hadeer-r/LeetCode/tree/master/1274-number-of-days-between-two-dates) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/hadeer-r/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2502-sort-the-people](https://github.com/hadeer-r/LeetCode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/hadeer-r/LeetCode/tree/master/2727-number-of-senior-citizens) |
@@ -51,6 +52,7 @@
 | ------- |
 | [0231-power-of-two](https://github.com/hadeer-r/LeetCode/tree/master/0231-power-of-two) |
 | [0441-arranging-coins](https://github.com/hadeer-r/LeetCode/tree/master/0441-arranging-coins) |
+| [1274-number-of-days-between-two-dates](https://github.com/hadeer-r/LeetCode/tree/master/1274-number-of-days-between-two-dates) |
 | [2556-convert-the-temperature](https://github.com/hadeer-r/LeetCode/tree/master/2556-convert-the-temperature) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/hadeer-r/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Bit Manipulation
