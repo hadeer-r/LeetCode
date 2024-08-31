@@ -78,6 +78,7 @@
 | ------- |
 | [0584-find-customer-referee](https://github.com/hadeer-r/LeetCode/tree/master/0584-find-customer-referee) |
 | [0620-not-boring-movies](https://github.com/hadeer-r/LeetCode/tree/master/0620-not-boring-movies) |
+| [1390-average-selling-price](https://github.com/hadeer-r/LeetCode/tree/master/1390-average-selling-price) |
 | [1908-recyclable-and-low-fat-products](https://github.com/hadeer-r/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 | [2087-confirmation-rate](https://github.com/hadeer-r/LeetCode/tree/master/2087-confirmation-rate) |
 ## Hash Table
