@@ -11,10 +11,12 @@ public:
     bool hasCycle(ListNode *head) {
         if(!head || !head->next) return false;
         unordered_map<ListNode*,bool> apperance;
+        head->val =1e6;
         for(ListNode*cur=head;cur;cur=cur->next){
-            if (apperance[cur]==true)return true;
-            else
-            apperance[cur]=true;
+            if (cur->next&&cur->next->val == 1e6) return true;
+            else if(cur->next)
+            cur->next->val = 1e6;
+
         }
         return false;
     }
