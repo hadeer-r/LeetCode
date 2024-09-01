@@ -11,6 +11,7 @@
 | [0136-single-number](https://github.com/hadeer-r/LeetCode/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/hadeer-r/LeetCode/tree/master/0283-move-zeroes) |
 | [0436-find-right-interval](https://github.com/hadeer-r/LeetCode/tree/master/0436-find-right-interval) |
+| [0792-binary-search](https://github.com/hadeer-r/LeetCode/tree/master/0792-binary-search) |
 | [0965-unique-email-addresses](https://github.com/hadeer-r/LeetCode/tree/master/0965-unique-email-addresses) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/hadeer-r/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/hadeer-r/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -34,6 +35,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/hadeer-r/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0436-find-right-interval](https://github.com/hadeer-r/LeetCode/tree/master/0436-find-right-interval) |
 | [0441-arranging-coins](https://github.com/hadeer-r/LeetCode/tree/master/0441-arranging-coins) |
+| [0792-binary-search](https://github.com/hadeer-r/LeetCode/tree/master/0792-binary-search) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/hadeer-r/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Sorting
 |  |
