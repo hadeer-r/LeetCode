@@ -35,6 +35,7 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/hadeer-r/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/hadeer-r/LeetCode/tree/master/0035-search-insert-position) |
+| [0374-guess-number-higher-or-lower](https://github.com/hadeer-r/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0436-find-right-interval](https://github.com/hadeer-r/LeetCode/tree/master/0436-find-right-interval) |
 | [0441-arranging-coins](https://github.com/hadeer-r/LeetCode/tree/master/0441-arranging-coins) |
 | [0792-binary-search](https://github.com/hadeer-r/LeetCode/tree/master/0792-binary-search) |
@@ -119,4 +120,8 @@
 |  |
 | ------- |
 | [2573-remove-nodes-from-linked-list](https://github.com/hadeer-r/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/hadeer-r/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
