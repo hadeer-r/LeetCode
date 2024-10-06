@@ -14,6 +14,7 @@
 | [0268-missing-number](https://github.com/hadeer-r/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/hadeer-r/LeetCode/tree/master/0283-move-zeroes) |
 | [0436-find-right-interval](https://github.com/hadeer-r/LeetCode/tree/master/0436-find-right-interval) |
+| [0724-find-pivot-index](https://github.com/hadeer-r/LeetCode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/hadeer-r/LeetCode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/hadeer-r/LeetCode/tree/master/0792-binary-search) |
 | [0965-unique-email-addresses](https://github.com/hadeer-r/LeetCode/tree/master/0965-unique-email-addresses) |
@@ -162,5 +163,6 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/hadeer-r/LeetCode/tree/master/0724-find-pivot-index) |
 | [2102-find-the-middle-index-in-array](https://github.com/hadeer-r/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
 <!---LeetCode Topics End-->
