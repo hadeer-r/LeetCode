@@ -21,6 +21,7 @@
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/hadeer-r/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/hadeer-r/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2048-build-array-from-permutation](https://github.com/hadeer-r/LeetCode/tree/master/2048-build-array-from-permutation) |
+| [2102-find-the-middle-index-in-array](https://github.com/hadeer-r/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
 | [2502-sort-the-people](https://github.com/hadeer-r/LeetCode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/hadeer-r/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/hadeer-r/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -158,4 +159,8 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hadeer-r/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Prefix Sum
+|  |
+| ------- |
+| [2102-find-the-middle-index-in-array](https://github.com/hadeer-r/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
 <!---LeetCode Topics End-->
