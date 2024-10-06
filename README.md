@@ -30,6 +30,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/hadeer-r/LeetCode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/hadeer-r/LeetCode/tree/master/0058-length-of-last-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/hadeer-r/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0965-unique-email-addresses](https://github.com/hadeer-r/LeetCode/tree/master/0965-unique-email-addresses) |
@@ -141,6 +142,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/hadeer-r/LeetCode/tree/master/0020-valid-parentheses) |
 | [0739-daily-temperatures](https://github.com/hadeer-r/LeetCode/tree/master/0739-daily-temperatures) |
 | [2573-remove-nodes-from-linked-list](https://github.com/hadeer-r/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Monotonic Stack
