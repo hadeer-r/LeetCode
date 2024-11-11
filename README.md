@@ -37,6 +37,7 @@
 | [0920-uncommon-words-from-two-sentences](https://github.com/hadeer-r/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0965-unique-email-addresses](https://github.com/hadeer-r/LeetCode/tree/master/0965-unique-email-addresses) |
 | [1274-number-of-days-between-two-dates](https://github.com/hadeer-r/LeetCode/tree/master/1274-number-of-days-between-two-dates) |
+| [1666-make-the-string-great](https://github.com/hadeer-r/LeetCode/tree/master/1666-make-the-string-great) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/hadeer-r/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2502-sort-the-people](https://github.com/hadeer-r/LeetCode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/hadeer-r/LeetCode/tree/master/2727-number-of-senior-citizens) |
@@ -148,6 +149,7 @@
 | [0020-valid-parentheses](https://github.com/hadeer-r/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/hadeer-r/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/hadeer-r/LeetCode/tree/master/0739-daily-temperatures) |
+| [1666-make-the-string-great](https://github.com/hadeer-r/LeetCode/tree/master/1666-make-the-string-great) |
 | [2573-remove-nodes-from-linked-list](https://github.com/hadeer-r/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
