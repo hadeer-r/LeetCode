@@ -31,6 +31,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/hadeer-r/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/hadeer-r/LeetCode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/hadeer-r/LeetCode/tree/master/0058-length-of-last-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/hadeer-r/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -172,4 +173,8 @@
 | ------- |
 | [0724-find-pivot-index](https://github.com/hadeer-r/LeetCode/tree/master/0724-find-pivot-index) |
 | [2102-find-the-middle-index-in-array](https://github.com/hadeer-r/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/hadeer-r/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
