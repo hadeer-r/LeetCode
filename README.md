@@ -67,6 +67,7 @@
 | [0141-linked-list-cycle](https://github.com/hadeer-r/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/hadeer-r/LeetCode/tree/master/0283-move-zeroes) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/hadeer-r/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/hadeer-r/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -142,6 +143,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/hadeer-r/LeetCode/tree/master/0141-linked-list-cycle) |
 | [1765-merge-in-between-linked-lists](https://github.com/hadeer-r/LeetCode/tree/master/1765-merge-in-between-linked-lists) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/hadeer-r/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/hadeer-r/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/hadeer-r/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Stack
@@ -151,6 +153,7 @@
 | [0042-trapping-rain-water](https://github.com/hadeer-r/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/hadeer-r/LeetCode/tree/master/0739-daily-temperatures) |
 | [1666-make-the-string-great](https://github.com/hadeer-r/LeetCode/tree/master/1666-make-the-string-great) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/hadeer-r/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/hadeer-r/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
