@@ -62,6 +62,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/hadeer-r/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/hadeer-r/LeetCode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/hadeer-r/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/hadeer-r/LeetCode/tree/master/0141-linked-list-cycle) |
@@ -141,6 +142,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/hadeer-r/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/hadeer-r/LeetCode/tree/master/0141-linked-list-cycle) |
 | [1765-merge-in-between-linked-lists](https://github.com/hadeer-r/LeetCode/tree/master/1765-merge-in-between-linked-lists) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/hadeer-r/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
