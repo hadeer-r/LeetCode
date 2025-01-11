@@ -14,6 +14,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hadeer-r/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/hadeer-r/LeetCode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/hadeer-r/LeetCode/tree/master/0189-rotate-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/hadeer-r/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/hadeer-r/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/hadeer-r/LeetCode/tree/master/0283-move-zeroes) |
 | [0436-find-right-interval](https://github.com/hadeer-r/LeetCode/tree/master/0436-find-right-interval) |
@@ -57,6 +58,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/hadeer-r/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/hadeer-r/LeetCode/tree/master/0268-missing-number) |
 | [0436-find-right-interval](https://github.com/hadeer-r/LeetCode/tree/master/0436-find-right-interval) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/hadeer-r/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -193,4 +195,16 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/hadeer-r/LeetCode/tree/master/0014-longest-common-prefix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/hadeer-r/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/hadeer-r/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/hadeer-r/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
