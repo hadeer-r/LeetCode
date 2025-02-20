@@ -6,6 +6,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/hadeer-r/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hadeer-r/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/hadeer-r/LeetCode/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/hadeer-r/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -144,6 +145,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/hadeer-r/LeetCode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/hadeer-r/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0268-missing-number](https://github.com/hadeer-r/LeetCode/tree/master/0268-missing-number) |
 | [0690-employee-importance](https://github.com/hadeer-r/LeetCode/tree/master/0690-employee-importance) |
