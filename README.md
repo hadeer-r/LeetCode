@@ -27,6 +27,7 @@
 | [0739-daily-temperatures](https://github.com/hadeer-r/LeetCode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/hadeer-r/LeetCode/tree/master/0792-binary-search) |
 | [0965-unique-email-addresses](https://github.com/hadeer-r/LeetCode/tree/master/0965-unique-email-addresses) |
+| [1014-k-closest-points-to-origin](https://github.com/hadeer-r/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/hadeer-r/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/hadeer-r/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/hadeer-r/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -69,6 +70,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/hadeer-r/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/hadeer-r/LeetCode/tree/master/0268-missing-number) |
 | [0436-find-right-interval](https://github.com/hadeer-r/LeetCode/tree/master/0436-find-right-interval) |
+| [1014-k-closest-points-to-origin](https://github.com/hadeer-r/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/hadeer-r/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2502-sort-the-people](https://github.com/hadeer-r/LeetCode/tree/master/2502-sort-the-people) |
 ## Two Pointers
@@ -90,6 +92,7 @@
 | [0231-power-of-two](https://github.com/hadeer-r/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/hadeer-r/LeetCode/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/hadeer-r/LeetCode/tree/master/0441-arranging-coins) |
+| [1014-k-closest-points-to-origin](https://github.com/hadeer-r/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1274-number-of-days-between-two-dates](https://github.com/hadeer-r/LeetCode/tree/master/1274-number-of-days-between-two-dates) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/hadeer-r/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2556-convert-the-temperature](https://github.com/hadeer-r/LeetCode/tree/master/2556-convert-the-temperature) |
@@ -218,14 +221,17 @@
 | [0053-maximum-subarray](https://github.com/hadeer-r/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/hadeer-r/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hadeer-r/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/hadeer-r/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/hadeer-r/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/hadeer-r/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/hadeer-r/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/hadeer-r/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Tree
 |  |
 | ------- |
@@ -238,4 +244,8 @@
 |  |
 | ------- |
 | [0690-employee-importance](https://github.com/hadeer-r/LeetCode/tree/master/0690-employee-importance) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/hadeer-r/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
