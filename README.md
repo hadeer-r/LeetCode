@@ -24,6 +24,7 @@
 | [0283-move-zeroes](https://github.com/hadeer-r/LeetCode/tree/master/0283-move-zeroes) |
 | [0436-find-right-interval](https://github.com/hadeer-r/LeetCode/tree/master/0436-find-right-interval) |
 | [0496-next-greater-element-i](https://github.com/hadeer-r/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/hadeer-r/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0690-employee-importance](https://github.com/hadeer-r/LeetCode/tree/master/0690-employee-importance) |
 | [0724-find-pivot-index](https://github.com/hadeer-r/LeetCode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/hadeer-r/LeetCode/tree/master/0739-daily-temperatures) |
@@ -189,6 +190,7 @@
 | [0020-valid-parentheses](https://github.com/hadeer-r/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/hadeer-r/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/hadeer-r/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/hadeer-r/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/hadeer-r/LeetCode/tree/master/0739-daily-temperatures) |
 | [1666-make-the-string-great](https://github.com/hadeer-r/LeetCode/tree/master/1666-make-the-string-great) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/hadeer-r/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -198,6 +200,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/hadeer-r/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/hadeer-r/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/hadeer-r/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/hadeer-r/LeetCode/tree/master/0739-daily-temperatures) |
 | [2573-remove-nodes-from-linked-list](https://github.com/hadeer-r/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Interactive
