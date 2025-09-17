@@ -57,6 +57,7 @@
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/hadeer-r/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2502-sort-the-people](https://github.com/hadeer-r/LeetCode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/hadeer-r/LeetCode/tree/master/2727-number-of-senior-citizens) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/hadeer-r/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Binary Search
 |  |
 | ------- |
@@ -177,6 +178,7 @@
 | [0965-unique-email-addresses](https://github.com/hadeer-r/LeetCode/tree/master/0965-unique-email-addresses) |
 | [2502-sort-the-people](https://github.com/hadeer-r/LeetCode/tree/master/2502-sort-the-people) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/hadeer-r/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/hadeer-r/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Linked List
 |  |
 | ------- |
@@ -214,6 +216,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/hadeer-r/LeetCode/tree/master/0169-majority-element) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/hadeer-r/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/hadeer-r/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Dynamic Programming
 |  |
 | ------- |
