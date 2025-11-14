@@ -39,6 +39,7 @@
 | [2048-build-array-from-permutation](https://github.com/hadeer-r/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2102-find-the-middle-index-in-array](https://github.com/hadeer-r/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
 | [2502-sort-the-people](https://github.com/hadeer-r/LeetCode/tree/master/2502-sort-the-people) |
+| [2625-increment-submatrices-by-one](https://github.com/hadeer-r/LeetCode/tree/master/2625-increment-submatrices-by-one) |
 | [2727-number-of-senior-citizens](https://github.com/hadeer-r/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/hadeer-r/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/hadeer-r/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -124,6 +125,7 @@
 |  |
 | ------- |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/hadeer-r/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [2625-increment-submatrices-by-one](https://github.com/hadeer-r/LeetCode/tree/master/2625-increment-submatrices-by-one) |
 ## Simulation
 |  |
 | ------- |
@@ -228,6 +230,7 @@
 | ------- |
 | [0724-find-pivot-index](https://github.com/hadeer-r/LeetCode/tree/master/0724-find-pivot-index) |
 | [2102-find-the-middle-index-in-array](https://github.com/hadeer-r/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
+| [2625-increment-submatrices-by-one](https://github.com/hadeer-r/LeetCode/tree/master/2625-increment-submatrices-by-one) |
 ## Trie
 |  |
 | ------- |
