@@ -37,6 +37,7 @@
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/hadeer-r/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/hadeer-r/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2048-build-array-from-permutation](https://github.com/hadeer-r/LeetCode/tree/master/2048-build-array-from-permutation) |
+| [2058-concatenation-of-array](https://github.com/hadeer-r/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/hadeer-r/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
 | [2502-sort-the-people](https://github.com/hadeer-r/LeetCode/tree/master/2502-sort-the-people) |
 | [2625-increment-submatrices-by-one](https://github.com/hadeer-r/LeetCode/tree/master/2625-increment-submatrices-by-one) |
@@ -130,6 +131,7 @@
 |  |
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/hadeer-r/LeetCode/tree/master/2048-build-array-from-permutation) |
+| [2058-concatenation-of-array](https://github.com/hadeer-r/LeetCode/tree/master/2058-concatenation-of-array) |
 ## Database
 |  |
 | ------- |
