@@ -23,6 +23,7 @@
 | [0268-missing-number](https://github.com/hadeer-r/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/hadeer-r/LeetCode/tree/master/0283-move-zeroes) |
 | [0436-find-right-interval](https://github.com/hadeer-r/LeetCode/tree/master/0436-find-right-interval) |
+| [0485-max-consecutive-ones](https://github.com/hadeer-r/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/hadeer-r/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/hadeer-r/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0690-employee-importance](https://github.com/hadeer-r/LeetCode/tree/master/0690-employee-importance) |
