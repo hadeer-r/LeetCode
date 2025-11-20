@@ -35,6 +35,7 @@
 | [1014-k-closest-points-to-origin](https://github.com/hadeer-r/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/hadeer-r/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/hadeer-r/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hadeer-r/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/hadeer-r/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1580-shuffle-the-array](https://github.com/hadeer-r/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/hadeer-r/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -85,6 +86,7 @@
 | [0436-find-right-interval](https://github.com/hadeer-r/LeetCode/tree/master/0436-find-right-interval) |
 | [0645-set-mismatch](https://github.com/hadeer-r/LeetCode/tree/master/0645-set-mismatch) |
 | [1014-k-closest-points-to-origin](https://github.com/hadeer-r/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hadeer-r/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/hadeer-r/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2502-sort-the-people](https://github.com/hadeer-r/LeetCode/tree/master/2502-sort-the-people) |
 ## Two Pointers
@@ -186,6 +188,7 @@
 | [0690-employee-importance](https://github.com/hadeer-r/LeetCode/tree/master/0690-employee-importance) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/hadeer-r/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0965-unique-email-addresses](https://github.com/hadeer-r/LeetCode/tree/master/0965-unique-email-addresses) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hadeer-r/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2502-sort-the-people](https://github.com/hadeer-r/LeetCode/tree/master/2502-sort-the-people) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/hadeer-r/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/hadeer-r/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -276,4 +279,8 @@
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/hadeer-r/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+## Counting Sort
+|  |
+| ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hadeer-r/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
