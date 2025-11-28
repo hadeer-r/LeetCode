@@ -1,0 +1,4 @@
+1/* Write your T-SQL query statement below */
+2select class from Courses 
+3group by class
+4Having Count(student)>=5 ;
