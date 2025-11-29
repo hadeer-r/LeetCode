@@ -1,0 +1,10 @@
+1/* Write your T-SQL query statement below */
+2select Format(trans_date, 'yyyy-MM') as month, 
+3    country, 
+4    count(*) as trans_count,
+5    Sum(case when state = 'approved' then 1 else 0 end) as approved_count,
+6    Sum(amount) as trans_total_amount,
+7    Sum(case when state = 'approved' then amount else 0 end) as approved_total_amount
+8
+9from Transactions
+10Group by Format(trans_date, 'yyyy-MM') , country;
